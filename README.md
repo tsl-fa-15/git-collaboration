@@ -2,3 +2,4 @@
 
 - Arjun Venkataswamy
 - Shannon Hall
+- Charissa Tolentino
