@@ -2,3 +2,4 @@
 
 - Arjun Venkataswamy
 - Shannon Hall
+- Rodney Simba Masarirambi
