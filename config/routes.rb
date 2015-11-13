@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'messages/hello'
 
   resources :comments
   resources :schools
