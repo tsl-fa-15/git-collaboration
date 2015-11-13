@@ -2,3 +2,4 @@
 
 - Arjun Venkataswamy
 - Shannon Hall
+- Lonnell L. Williams
