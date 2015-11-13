@@ -5,4 +5,5 @@
 - Charissa Tolentino
 - Jim Woodworth
 - Mike McGee
+- Rodney Simba Masarirambi
 - Lonnell L. Williams
