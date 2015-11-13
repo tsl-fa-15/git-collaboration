@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
   get 'messages/hello'
 
+  resources :comments
+  resources :schools
   resources :students
   resources :courses
   # The priority is based upon order of creation: first created -> highest priority.
