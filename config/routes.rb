@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
+
   resources :friday_13ths
+  resources :comments
   resources :schools
   resources :students
   resources :courses
