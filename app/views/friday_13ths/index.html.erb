@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Friday 13ths</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Superstition</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @friday_13ths.each do |friday_13th| %>
+      <tr>
+        <td><%= friday_13th.name %></td>
+        <td><%= friday_13th.superstition %></td>
+        <td><%= link_to 'Show', friday_13th %></td>
+        <td><%= link_to 'Edit', edit_friday_13th_path(friday_13th) %></td>
+        <td><%= link_to 'Destroy', friday_13th, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Friday 13th', new_friday_13th_path %>

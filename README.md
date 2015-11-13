@@ -6,4 +6,4 @@
 - Jim Woodworth
 - Mike McGee
 - Rodney Simba Masarirambi
-- Lonnell L. Williams
+- Lonnell L. Williams (Project Friday 13th!)

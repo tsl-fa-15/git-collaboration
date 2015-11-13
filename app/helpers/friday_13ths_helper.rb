@@ -1,0 +1,2 @@
+module Friday13thsHelper
+end
