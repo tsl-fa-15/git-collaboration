@@ -2,7 +2,7 @@
 
 - Arjun Venkataswamy
 - Shannon Hall
-- Charissa Tolentino
+- Risa Tolentino
 - Jim Woodworth
 - Mike McGee
 - Rodney Simba Masarirambi
